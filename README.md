@@ -1,4 +1,4 @@
-# Retail Sales Forecasting
+# Retail Store Sales Forecasting
 Business Problem:
 Understanding customer shopping patterns is crucial for optimizing inventory management and enhancing the
 overall shopping experience. However, there is a lack of insights into the key factors influencing sales in
